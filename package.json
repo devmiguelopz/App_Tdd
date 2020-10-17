@@ -1,0 +1,14 @@
+{
+  "name": "cypress_app",
+  "version": "1.0.0",
+  "description": "app with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Lopez",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^5.4.0"
+  }
+}

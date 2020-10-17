@@ -1,0 +1,12 @@
+.container {
+  width: 400px;
+}
+.container label {
+  display: inline-block;
+  width: 50px;
+}
+
+.container input {
+  display: inline-block;
+  width: 300px;
+}

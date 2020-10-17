@@ -1,0 +1,19 @@
+1.- Initicilizar el componente
+2.- Vincula el diseño
+3.- Vincula los eventos
+  3.1.- Vincula el evento Click con el botton submit
+  3.2.- Lanza el evento register cuando hace click el usuario
+  3.3.- Valida la data
+  3.4.- Registar el usuario en el local storage
+3.- Cargar la data del local storage
+4.- Setea la data del local storage
+---------------------------------------------------------------------
+Que cuando entre el usaurio carga la informacion por defecto de la base de datos en caso la tenga, de no ser así los campos estaran en blanco.
+El usuario pdora regustarse pero antes de ellos tendra que validar los datos requeridos y de no ser valido mostrar un mensaje de advertencia y en caso todo correccto registar al usuario y alertar
+con un mensaje satisfactorio
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+1.- Verificar que exista datos en la bd *
+2.- Llenar la información con la data de base datos *
+3.- Validar que la informacion sea correcta antes de valdiar al usuario *
+4.- En caso de no ser correcta la data nostar un mesnaje de alertar
+5.- En caso sea correcta la data mostar mensaje y registar bd
